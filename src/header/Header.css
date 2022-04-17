@@ -1,0 +1,19 @@
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+li {
+    font-size: large;
+    padding: 10px;
+}
+
+li:hover {
+    background-color: #ddd;
+}
+
+.Logo {
+    height: 6vmin;
+    pointer-events: none;
+}
